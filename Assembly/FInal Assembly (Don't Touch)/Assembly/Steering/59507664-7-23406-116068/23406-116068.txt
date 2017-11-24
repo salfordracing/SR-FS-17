@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-29082011-104317";"";
+"REFERENCE";"23406-116068";"";
+"TraceParts.PartTitle";"23406 SINGLE CARDAN JOINTS WITH NEEDLE BEARING";"";
+"TraceParts.InstanceId";"10-29082011-104317EN5QNCA3U553XPZPNZBLOY25Q";"";
+"DESIGN";"23406 SINGLE CARDAN JOINTS WITH NEEDLE BEARING ";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"norelem";"";
+"TraceParts.PartVersion";"1.0.9";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"NORELEM:/ROOT/C21/C21.120/C21.120.025/10-29082011-104317";"";
